@@ -3,15 +3,11 @@
 
 - 🔭 I’m currently working on [a bug tracker web application.]()
 
-- 🌱 I’m currently learning **best coding practices and the techniques used in devops engineering**
+- 🌱 I’m currently learning **back end development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LilithAsh7](https://github.com/LilithAsh7)
 
-- 💬 Ask me about **my favorite tech related skill!**
-
 - 📫 How to reach me **lilly.ashbury@gmail.com**
-
-- ⚡ Fun fact **I play guitar and I'm learning Italian to get in touch with my heritage**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
