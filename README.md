@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lilly</h1>
 <h3 align="center">A developer from Washington</h3>
 
-- 🔭 I’m currently working on [a two player snake game (With plans to implement online functionality)](https://github.com/LilithAsh7/Snake)
+- 🔭 I’m currently working on [a bug tracker web application.]()
 
 - 🌱 I’m currently learning **best coding practices and the techniques used in devops engineering**
 
